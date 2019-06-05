@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/ISO2-1_6A_refine_96_refine_002.def
+/ISO2-1_6A_refine_96_refine_001.eff
+/ISO2-1_6A_refine_96_refine_001.geo
+/ISO2-1_6A_refine_96_refine_001.log
+/ISO2-1_6A_refine_96_refine_001.mtz
+/ISO2-1_6A_refine_96_refine_001.pdb
