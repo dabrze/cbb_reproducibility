@@ -1,2 +1,3 @@
-# cbb_reproducibility
-Repo for CBB seminar on reproducibility
+# Repozytorium do prezentacji
+
+Repo for CBB seminar on reproducibility. Tekst po angielsku, a prezentacja po polsku...
